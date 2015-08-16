@@ -6,9 +6,9 @@ configs={
         'port':3306,
         'user':'www-data',
         'password':'www-data',
-        'database':'awesome'
-    }
+        'database':'pyblog'
+    },
     'session':{
-        'secret':'AwEsOmE'
+        'secret':'PyBloG'
     }
 }
