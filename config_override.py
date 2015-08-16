@@ -1,7 +1,8 @@
 #!usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 configs={
     'db':{
-        'host':'192.168.0.100'
+        'host':'127.0.0.1'
     }
 }
